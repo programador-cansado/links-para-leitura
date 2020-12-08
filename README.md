@@ -5,6 +5,7 @@
 * [Sou Bom o Suficiente?](https://willianjusten.com.br/sou-bom-o-suficiente/)
 * [Estresse e Síndrome do Impostor](https://www.profissionaisti.com.br/2014/09/stresse-literalmente-deixa-os-programadores-loucos-e-a-sindrome-do-impostor/)
 * [Síndrome do "Não inventado aqui"](https://www.minholi.com/blog/2006/11/07/a-sindrome-do-nao-inventado-aqui/)
+* [Síndrome de Burnout](https://brasilescola.uol.com.br/psicologia/sindrome-burnout.htm)
 
 ### Psicoeducação
 * https://www.diferenca.com/psicologo-e-psiquiatra/
