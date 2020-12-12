@@ -1,7 +1,7 @@
 # Links sobre saúde mental
 
 ### Problemas ligados a programação
-* [Síndrome do Imposto | Profissionais TI](https://www.profissionaisti.com.br/2014/09/stresse-literalmente-deixa-os-programadores-loucos-e-a-sindrome-do-impostor)
+* [Síndrome do Impostor | Profissionais TI](https://www.profissionaisti.com.br/2014/09/stresse-literalmente-deixa-os-programadores-loucos-e-a-sindrome-do-impostor)
 * [Sou Bom o Suficiente? | Willian Justen](https://willianjusten.com.br/sou-bom-o-suficiente/)
 * [Estresse e Síndrome do Impostor | Profissionais TI](https://www.profissionaisti.com.br/2014/09/stresse-literalmente-deixa-os-programadores-loucos-e-a-sindrome-do-impostor/)
 * [Síndrome do "Não inventado aqui" | Minholi](https://www.minholi.com/blog/2006/11/07/a-sindrome-do-nao-inventado-aqui/)
