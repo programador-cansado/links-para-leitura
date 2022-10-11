@@ -81,7 +81,7 @@
 * https://amenteemaravilhosa.com.br/como-a-culpa-inconsciente-se-manifesta/
 * https://www.minhavida.com.br/saude/materias/12967-sentir-culpa-constantemente-pode-ser-falta-de-controle-emocional
 
-### Perfeccionismo (essa característica não é uma qualidade)
+### Perfeccionismo (essa característica NÃO É uma qualidade)
 * https://amenteemaravilhosa.com.br/personalidade-anancastica/
 * http://g1.globo.com/sp/presidente-prudente-regiao/blog/psicoblog/post/armadilha-do-perfeccionismo.html
 * https://amenteemaravilhosa.com.br/consequencias-negativas-do-perfeccionismo/
